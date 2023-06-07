@@ -1,0 +1,14 @@
+﻿Flavio Severino - 2019 
+implementation of a sequencer in the patch provided by the course. the following changes have been made:
+
+-added series of switches and counter objects for triggering a non-linear sequencer
+
+-cutted a single audio file in more parts with the "selection" message for keeping differents sounds (x4)
+
+-added different framerate for videoclips based on the audio sequence
+
+-added 2 sine signals and different MIDI chords and the related scope~ objects
+
+-modified the "metro" frequency of the sequencer based also on it self
+
+-added a x-y scope~ for the audio files
